@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseColorSettings">
+    <colors>
+      <entry key="board/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="130996" />
+      <entry key="collaborator_role/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Rose" />
+      <entry key="collaborator_roles/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Rose" />
+      <entry key="collaborators/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Rose" />
+      <entry key="custom_field/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="130996" />
+      <entry key="project_type/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Rose" />
+      <entry key="projects/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Rose" />
+      <entry key="salary/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="17295e" />
+      <entry key="team/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Blue" />
+      <entry key="team_roles/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Blue" />
+      <entry key="users/public/neondb/653feebe-7cec-4791-acdf-f48720c7a030:TABLE" value="Violet" />
+    </colors>
+  </component>
+</project>
